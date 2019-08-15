@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qingcheng-common" />
+        <module name="qingcheng-pojo" />
+        <module name="qingcheng-service-goods" />
+        <module name="qingcheng-interface" />
+        <module name="qingcheng-web-manager" />
+        <module name="qingcheng-common-service" />
+        <module name="qingcheng-common-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
