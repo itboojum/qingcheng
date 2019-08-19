@@ -13,6 +13,11 @@
 
     <!--公共模块-->
     <dependencies>
+        <dependency>
+            <groupId>com.qingcheng</groupId>
+            <artifactId>qingcheng-pojo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>
