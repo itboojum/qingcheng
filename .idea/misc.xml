@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-business" />
+    <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-config" />
     <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-goods" />
+    <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-order" />
+    <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-system" />
+    <file type="web" url="file://$PROJECT_DIR$/qingcheng-service-user" />
     <file type="web" url="file://$PROJECT_DIR$/qingcheng-web-manager" />
   </component>
   <component name="JavaScriptSettings">

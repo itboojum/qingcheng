@@ -1,4 +1,4 @@
-package com.qingcheng.pojo;
+package com.qingcheng.pojo.goods;
 
 import javax.persistence.Id;
 import javax.persistence.Table;

@@ -5,7 +5,7 @@ import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
 import com.qingcheng.dao.BrandMapper;
 import com.qingcheng.entity.PageResult;
-import com.qingcheng.pojo.Brand;
+import com.qingcheng.pojo.goods.Brand;
 import com.qingcheng.service.goods.BrandService;
 import org.springframework.beans.factory.annotation.Autowired;
 import tk.mybatis.mapper.entity.Example;

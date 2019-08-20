@@ -1,7 +1,7 @@
 package com.qingcheng.service.goods;
 
 import com.qingcheng.entity.PageResult;
-import com.qingcheng.pojo.Brand;
+import com.qingcheng.pojo.goods.Brand;
 
 import java.util.List;
 import java.util.Map;

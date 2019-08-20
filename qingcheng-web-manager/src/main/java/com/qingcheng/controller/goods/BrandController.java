@@ -3,7 +3,7 @@ package com.qingcheng.controller.goods;
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.qingcheng.entity.PageResult;
 import com.qingcheng.entity.Result;
-import com.qingcheng.pojo.Brand;
+import com.qingcheng.pojo.goods.Brand;
 import com.qingcheng.service.goods.BrandService;
 import org.springframework.web.bind.annotation.*;
 

@@ -15,6 +15,11 @@
         <module>qingcheng-interface</module>
         <module>qingcheng-service-goods</module>
         <module>qingcheng-web-manager</module>
+        <module>qingcheng-service-business</module>
+        <module>qingcheng-service-config</module>
+        <module>qingcheng-service-order</module>
+        <module>qingcheng-service-system</module>
+        <module>qingcheng-service-user</module>
     </modules>
     <packaging>pom</packaging>
 
